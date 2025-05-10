@@ -27,7 +27,7 @@ DELETE /tasks/{id} – Delete a task by ID
 
 ### How to Run:
 Clone the repository:
-git clone https://github.com/yourusername/todo-app.git
+git clone https://github.com/AshutoshMitraJi/todo-app.git
 Navigate into the project:
 cd todo-app
 Build the application:
